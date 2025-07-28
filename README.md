@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://github.com/kokaq/.github/blob/main/kokaq-core.png?raw=true" alt="cute quokka as kokaq logo"/>
+  <img height="300" src="https://github.com/kokaq/.github/blob/main/kokaq-repl.png?raw=true" alt="cute quokka as kokaq logo"/>
 </div>
 
 `kokaq-repl` is an interactive REPL (Read-Eval-Print Loop) for exploring and debugging [kokaq](https://github.com/yourorg/kokaq) message queues via gRPC. `kokaq-repl` provides a developer-friendly CLI for inspecting namespaces, managing queues, and working with messages — including DLQ, peek-lock, and consumer group support.
