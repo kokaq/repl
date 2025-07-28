@@ -67,8 +67,7 @@ func (repl *ReplClient) Start() {
 ██║  ██╗╚██████╔╝██║  ██╗██║  ██║██████╔╝
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚════██╗
                                       ╚═╝
-Welcome to Kokaq REPL — Type 'help' for commands. Type 'exit' to quit.
-`)
+Welcome to Kokaq REPL — Type 'help' for commands. Type 'exit' to quit.`)
 	var err error
 	repl.client, err = repl.getClient()
 	if err != nil {
