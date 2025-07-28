@@ -4,6 +4,9 @@
 
 `kokaq-repl` is an interactive REPL (Read-Eval-Print Loop) for exploring and debugging [kokaq](https://github.com/yourorg/kokaq) message queues via gRPC. `kokaq-repl` provides a developer-friendly CLI for inspecting namespaces, managing queues, and working with messages — including DLQ, peek-lock, and consumer group support.
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/kokaq/repl.svg)](https://pkg.go.dev/github.com/kokaq/repl)
+[![Tests](https://github.com/kokaq/repl/actions/workflows/go.yml/badge.svg)](https://github.com/kokaq/repl/actions/workflows/go.yml)
+
 ## 📦 Installation
 
 ```bash
